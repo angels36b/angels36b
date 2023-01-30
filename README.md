@@ -1,8 +1,11 @@
- <center>## Hi I am Angel 👋</center>
+ ## Hello Welcome - I'm Angel :man_beard:
+ *Mechatronic Engineer*  
+ *Junior Developer Web full Stack*
+ 
 
-![avatarAngels36b](https://user-images.githubusercontent.com/40722950/215373433-0024177a-5301-436d-a52d-cd4a451b08c9.png)  jkjkljl
+![avatarAngels36b](https://user-images.githubusercontent.com/40722950/215373433-0024177a-5301-436d-a52d-cd4a451b08c9.png)
 
-## About me in code
+## About me in code 	
 
 ```js
 Const angels36bWeb = {
