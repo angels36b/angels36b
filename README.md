@@ -2,6 +2,22 @@
 
 ![avatarAngels36b](https://user-images.githubusercontent.com/40722950/215373433-0024177a-5301-436d-a52d-cd4a451b08c9.png)
 
+```js
+Const angels36bWeb = {
+  code: {javascript, Html, css}
+  tools: {React, Node, tailwinds Css}
+}
+
+Const angels36MobilDevp ={
+  code:{Dart}
+  tools:{Flutter}
+}
+
+Const angels36bElectronicDesigner = {
+  hardware: {MicroChip / Arduino}
+  langueaje: {C++ AND OPP (OBJECT ORIENTED PROGRAMMING) }
+```
+
 <!--
 **angels36b/angels36b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
