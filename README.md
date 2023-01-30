@@ -1,6 +1,6 @@
 ### Hi I am Angel 👋
 
-![avatar](https://user-images.githubusercontent.com/40722950/215372433-4b2f164f-5c95-4da7-9e33-48b79c834afb.jpg)
+![avatarAngels36b](https://user-images.githubusercontent.com/40722950/215373433-0024177a-5301-436d-a52d-cd4a451b08c9.png)
 
 <!--
 **angels36b/angels36b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
