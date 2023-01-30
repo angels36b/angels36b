@@ -18,8 +18,8 @@ Const angels36bElectronicDesigner = {
   langueaje: {C++ AND OOP (OBJECT ORIENTED PROGRAMMING) }
 ```
 
-You can find me :
-   -[linkedin] (www.linkedin.com/in/angel-david-cantor-florez-ba3281105)
+## You can find me :
+   - [linkedin] (www.linkedin.com/in/angel-david-cantor-florez-ba3281105)
 
 <!--
 **angels36b/angels36b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
