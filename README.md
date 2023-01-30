@@ -15,8 +15,11 @@ Const angels36MobilDevp ={
 
 Const angels36bElectronicDesigner = {
   hardware: {MicroChip / Arduino}
-  langueaje: {C++ AND OPP (OBJECT ORIENTED PROGRAMMING) }
+  langueaje: {C++ AND OOP (OBJECT ORIENTED PROGRAMMING) }
 ```
+
+You can find me :
+   -www.linkedin.com/in/angel-david-cantor-florez-ba3281105
 
 <!--
 **angels36b/angels36b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
